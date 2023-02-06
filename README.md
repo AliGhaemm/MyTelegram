@@ -27,6 +27,7 @@ requests are written as below:
 	's', 'see' -> see events like see someone informations
 
 #: can be phrazes below:
+
 	'm' -> "deletemessage", "forwardmessage", "reactonmessage", "replyonmessage", "savemessage", "sendmessage", "delete", "forward", "react", "reply","save","send"
 	'e' -> "editbio", "editbirthdate", "editchatroomname", "editdescription", "editemail", "editmessage", "editname", "editpassword"
 	's' -> "chatroom", "contacts", "messagereactions", "messagereplies", "myinfo", "sender", "userinfo"
